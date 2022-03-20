@@ -1,2 +1,4 @@
-# APCS
-A collection of my coding works in high school period
+# 電腦程式
+## 說明
+本貯藏庫存放了我高中時期的程式作業，主要包含了 JAVA 語言基本概念與實作課程（程式設計）以及大學程式設計先修檢測的題目練習（資料結構與演算法）。
+其中 APCS 為 Advanced Placement Computer Science 的英文縮寫，是指「大學程式設計先修檢測」。其檢測模式乃參考美國大學先修課程（Advanced Placement，AP），與各大學合作命題，並確定檢定用題目經過信效度考驗，以確保檢定結果之公信力。
